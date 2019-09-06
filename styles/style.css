@@ -1,0 +1,34 @@
+
+html{
+    color: #EF5151;
+    font-size: 10px;
+    font-family: 'Dosis';
+}
+
+h1{
+    margin: 0;
+    padding: 10px 0;
+    color: #E85E8C;
+    font-size: 40px;
+    text-align: center;
+    text-shadow: 1px 1px 1px gray;
+}
+
+p, li{
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+body{
+    width: 1000px;
+    margin: 0 auto;
+    background-color: #E6FF96;    
+    padding: 0 60px 60px 60px;
+    border: 2px solid black;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+}
